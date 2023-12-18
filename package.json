@@ -15,6 +15,7 @@
 		"README.md",
 		"LICENSE",
 		"index.js",
+		"index.d.ts",
 		"lib"
 	],
 	"repository": {
